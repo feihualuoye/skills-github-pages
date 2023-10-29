@@ -1,4 +1,6 @@
 <header>
+<h1> the h1 title 
+<h6> the thtle of h6
 
 <!--
   <<< Author notes: Course header >>>
